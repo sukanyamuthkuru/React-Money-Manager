@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.list-containerr {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  max-width: 40vw;
+  border: solid 2px #d7dfe9;
+  list-style-type: none;
+  border-top: none;
+  padding: 10px;
+  padding-left: 20px;
+}
+.buttondelete {
+  border: none;
+  background-color: transparent;
+}
+.item {
+  color: #334155;
+  font-family: 'Roboto';
+}
+
+.delete {
+  max-height: 4vh;
+  max-width: 4vh;
+}

@@ -1,0 +1,56 @@
+/* Write your CSS here */
+.money-details-container {
+  display: flex;
+  flex-direction: row;
+  margin-top: 40px;
+  justify-content: space-between;
+}
+.card-container {
+  margin-right: 40px;
+  display: flex;
+  flex-direction: row;
+  border: solid 2px #84cc16;
+  border-radius: 10px;
+  background-color: #ecfccb;
+  padding: 20px;
+  max-height: 20vh;
+  min-width: 20vw;
+}
+.money-details-image {
+  max-height: 13vh;
+  max-width: 13vw;
+  margin-right: 30px;
+}
+.balance-container {
+  margin-left: 10px;
+}
+.Balance {
+  color: #7e858e;
+}
+.money {
+  font-weight: bold;
+  color: #7e858e;
+  font-size: 20px;
+}
+.card-container-1 {
+  margin-right: 40px;
+  display: flex;
+  flex-direction: row;
+  border: solid 2px #06b6d4;
+  border-radius: 10px;
+  background-color: #cffafe;
+  padding: 20px;
+  max-height: 20vh;
+  min-width: 20vw;
+}
+.card-container-2 {
+  margin-right: 40px;
+  display: flex;
+  flex-direction: row;
+  border: solid 2px #7c3aed;
+  border-radius: 10px;
+  background-color: #ede9fe;
+  padding: 20px;
+  max-height: 20vh;
+  min-width: 20vw;
+}
